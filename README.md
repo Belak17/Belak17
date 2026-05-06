@@ -1,5 +1,5 @@
 #  About Me:
- Backend Developer in Progress (Java / Spring Boot)  <br>🔧 Building real-world projects (APIs, e-commerce systems)  <br> Learning and improving every day
+ Junior backend developer specializing in Java and Spring Boot with hands-on experience building secure web applications and RESTful APIs. Strong foundation in database systems, authentication, and MVC architecture. Able to quickly adapt, learn new technologies, and contribute to production-ready projects.
 
 
 ##  Socials:
