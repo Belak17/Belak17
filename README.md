@@ -87,12 +87,12 @@ A JavaFX desktop application for managing books and users.
 
 ## Contact
 
-- LinkedIn: *(add your link here)*  
-- Email: *(add your email here)*  
-- GitHub: https://github.com/YOUR_USERNAME  
+- LinkedIn: [https://www.linkedin.com/in/kaleb-akakpo/ ](https://www.linkedin.com/in/kaleb-akakpo/) 
+- Email: [akakpokaleb09@gmail.com ](akakpokaleb09@gmail.com)
+- GitHub: https://github.com/Belak17 
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
 I enjoy turning complex backend logic into clean, scalable systems that actually solve real problems.
