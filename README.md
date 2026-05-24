@@ -1,8 +1,8 @@
-#  Hi, I'm Kaleb AKAKPO
+#Kaleb AKAKPO
 
-Backend Developer | Java & Spring Boot Enthusiast  
- Passionate about building real-world applications  
- Seeking a software development internship  
+**Backend Developer | Java & Spring Boot Developer** 
+Passionate about building real-world applications  
+Seeking a software development internship  
 
 ---
 
