@@ -32,7 +32,9 @@ Currently, I am actively looking for an **internship opportunity/junior position
 
 ### Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
@@ -54,52 +56,55 @@ Currently, I am actively looking for an **internship opportunity/junior position
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
 ##  Featured Projects
 
-> A selection of projects I’ve built to apply backend development, REST APIs, and system design principles.
+> A selection of backend-focused projects applying REST APIs, system design, and database management.
 
 ---
 
 ###  Timetable Management System
-*Spring Boot • PostgreSQL • Thymeleaf*
+**Spring Boot • Spring Security • JPA/Hibernate • PostgreSQL • Thymeleaf**
 
-> A scheduling system designed for managing student and teacher timetables in an academic environment.
+A scheduling system designed for managing student and teacher timetables in an academic environment.
 
 - Optimized scheduling logic for students and teachers  
 - Backend built with Java & Spring Boot  
 - PostgreSQL database integration  
-- Responsive UI using Thymeleaf, HTML, CSS  
+- Responsive UI using Thymeleaf, HTML, CSS and JavaScript
+- Role-based authentication using Spring Security  
+- Password encryption using BCrypt 
 
-🔧 Key Focus: Backend architecture + data modeling + usability
+**Key Focus:** Backend architecture, data modeling, and usability
 
 ---
 
 ###  Shopping Cart Backend System
- *Spring Boot • Spring Security • JPA/Hibernate*
+**Spring Boot • Spring Security • JPA/Hibernate**
 
-> A secure backend system for an e-commerce shopping cart platform.
+A secure backend system for an e-commerce shopping cart platform.
 
 - REST APIs for product, cart, and user management  
 - Layered MVC architecture (Controller, Service, Repository)  
-- Role-based authentication (Spring Security)  
-- Password encryption using BCrypt  
+- Role-based authentication using Spring Security  
+- Password encryption using BCrypt
+- JWT for authentication
 
-Key Focus: API design + security + system architecture
+**Key Focus:** API design, security, and scalable backend architecture
 
 ---
 
 ###  Library Management System (Desktop App)
-*JavaFX • JDBC • Oracle DB*
+**JavaFX • JDBC • Oracle DB**
 
-> A desktop application for managing books, users, and library operations.
+A desktop application for managing books, users, and library operations.
 
 - Full CRUD functionality using JDBC  
 - Oracle database integration  
 - JavaFX UI for desktop interaction  
 
-Key Focus: Desktop development + database integration
+**Key Focus:** Desktop application development and database integration
+
+--
 
 ## Goals
 
