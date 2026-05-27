@@ -229,10 +229,32 @@ Développement desktop et intégration base de données SQL.
 
 </div>
 
-What I’m focusing on right now:
-* Scalable backend architecture
-*  * Advanced application security
-   *  * Fullstack integration
-      * * Writing cleaner and more maintainable code
-        *  * Real-world deployment workflows
---- # Contactez-moi <div align="center"> Je suis toujours ouvert aux échanges autour du développement backend, du software engineering, des architectures scalables ou d’opportunités de collaboration. [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kaleb-akakpo/) [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:akakpokaleb09@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Belak17) </div> --- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=100&section=footer" width="100%"/> </div>
+Ce sur quoi je travaille actuellement :
+
+-  Architecture backend scalable
+-  Sécurité applicative avancée
+-  Intégration fullstack
+-  Écriture d’un code plus propre et maintenable
+-  Workflows de déploiement réels
+
+---
+
+#  Me contacter
+
+<div align="center">
+
+Je suis toujours ouvert aux échanges autour du développement backend, du software engineering, des architectures scalables ou des opportunités de collaboration.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Discutons%20!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaleb-akakpo/)
+[![Email](https://img.shields.io/badge/Email-Contactez%20moi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akakpokaleb09@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Mes%20projets-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Belak17)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=100&section=footer" width="100%"/>
+
+</div>
