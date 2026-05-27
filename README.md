@@ -6,209 +6,208 @@
 
 <!-- BADGES ANIMÉS -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&width=700\&lines=Backend+Developer+;Java+%7C+Spring+Boot+%7C+PostgreSQL+;Designing+Scalable+Backend+Systems+;Building+Real-World+Applications+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Développeur+Backend+;Java+%7C+Spring+Boot+%7C+PostgreSQL+;Conception+de+systèmes+backend+scalables+;Création+d’applications+réelles+)](https://git.io/typing-svg)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaleb%20AKAKPO-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kaleb-akakpo/)
-[![Email](https://img.shields.io/badge/Email-akakpokaleb09@gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:akakpokaleb09@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Belak17-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Belak17)
-![Visitors](https://komarev.com/ghpvc/?username=Belak17\&style=for-the-badge\&color=7C3AED\&label=Visitors)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaleb%20AKAKPO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaleb-akakpo/)
+[![Email](https://img.shields.io/badge/Email-akakpokaleb09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akakpokaleb09@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Belak17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Belak17)
+![Visitors](https://komarev.com/ghpvc/?username=Belak17&style=for-the-badge&color=7C3AED&label=Visiteurs)
 
 </div>
 
 ---
 
-#  About Me
+#  À propos de moi
 
+Je suis **Kaleb AKAKPO**, développeur orienté backend passionné par la création d’applications structurées, fiables et maintenables avec **Java et Spring Boot**.
 
-I’m **Kaleb AKAKPO**, a backend-focused developer passionate about building structured and reliable applications using **Java and Spring Boot**.
+Ce qui me fascine le plus dans le développement backend, c’est toute l’architecture invisible derrière une application.  
+Les utilisateurs voient uniquement l’interface… mais derrière elle se trouvent l’authentification, les APIs, les bases de données, la sécurité, la logique métier et l’architecture système.
 
-What attracts me most in backend development is the invisible architecture behind every application. Users only see interfaces — but behind them lies authentication, APIs, databases, security, business logic, and system design.
+Et c’est précisément cette partie que j’aime construire.
 
-That’s the part I enjoy building.
+J’aime transformer des besoins complexes en systèmes backend propres, scalables, maintenables et sécurisés.
 
-I like transforming complex requirements into clean backend systems that are scalable, maintainable, and secure.
+Mes principaux centres d’intérêt :
 
-My main focus is:
+- Conception d’APIs REST
+- Architecture backend
+- Gestion de bases de données relationnelles
+- Sécurisation d’applications avec Spring Security
+- Écriture de code maintenable et testable
 
-* Designing REST APIs
-* Building backend architectures
-* Managing relational databases
-* Securing applications with Spring Security
-* Writing maintainable and testable code
-
-I also enjoy understanding *why* systems are designed a certain way instead of only making them work.
-
-
----
-
-#  Featured Projects
-
-> A selection of backend-focused projects applying API design, authentication systems, database management, and scalable architectures.
+J’aime également comprendre *pourquoi* les systèmes sont conçus d’une certaine manière, et pas seulement les faire fonctionner.
 
 ---
 
-##  Timetable Management System
+#  Projets phares
 
-### *Managing academic scheduling efficiently*
-
-> **How do you organize complex academic schedules for students, teachers, and administrators without chaos?**
-
-This project is a complete academic timetable management system designed to simplify scheduling operations in a university environment.
-
-The application handles:
-
-* Student and teacher schedules
-* User management with role-based access
-* Timetable imports and management
-* Authentication and authorization
-* Responsive academic dashboard
-
-###  Technologies Used
-
-* Spring Boot
-* Spring Security
-* Spring Data JPA / Hibernate
-* PostgreSQL
-* Thymeleaf
-* HTML / CSS / JavaScript
-
-###  Key Features
-
-* Secure authentication system using Spring Security
-* BCrypt password encryption
-* Role-based authorization
-* Responsive interface
-* Structured layered architecture
-* Database relationship modeling
-
-###  Main Focus
-
-Backend architecture, security implementation, and relational database design.
+> Une sélection de projets orientés backend mettant en pratique la conception d’APIs, l’authentification, la gestion de bases de données et les architectures scalables.
 
 ---
 
-##  Shopping Cart Backend System
+##  Système de Gestion d’Emplois du Temps
 
-### *Designing a secure e-commerce backend*
+### *Organiser efficacement les emplois du temps académiques*
 
-> **A good e-commerce platform isn’t only about products. It’s about security, scalability, and reliable APIs.**
+> **Comment gérer des emplois du temps complexes pour des étudiants, enseignants et administrateurs sans créer de chaos ?**
 
-This project is a backend-focused shopping cart system built with Spring Boot.
+Ce projet est un système complet de gestion d’emplois du temps académiques conçu pour simplifier l’organisation universitaire.
 
-It provides:
+L’application permet :
 
-* Product management APIs
-* User authentication
-* Cart management
-* JWT-based security
-* Role-based authorization
+- Gestion des emplois du temps étudiants et enseignants
+- Gestion des utilisateurs avec rôles
+- Importation et gestion des plannings
+- Authentification et autorisation
+- Tableau de bord académique responsive
 
-### 🔧 Technologies Used
+###  Technologies utilisées
 
-* Spring Boot
-* Spring Security
-* JPA / Hibernate
-* JWT Authentication
+- Spring Boot
+- Spring Security
+- Spring Data JPA / Hibernate
+- PostgreSQL
+- Thymeleaf
+- HTML / CSS / JavaScript
 
-###  Key Features
+###  Fonctionnalités principales
 
-* RESTful API architecture
-* JWT authentication system
-* Layered MVC structure
-* Secure user management
-* Clean service-oriented architecture
+- Système d’authentification sécurisé avec Spring Security
+- Chiffrement des mots de passe avec BCrypt
+- Gestion des rôles et permissions
+- Interface responsive
+- Architecture en couches propre
+- Modélisation relationnelle de la base de données
 
-###  Main Focus
+###  Focus principal
 
-API design, authentication systems, and scalable backend logic.
-
----
-
-##  Library Management System
-
-### *Desktop application for library operations*
-
-> **Managing books, members, and borrowing operations efficiently requires a strong database structure.**
-
-This project is a desktop-based library management application developed using JavaFX and JDBC.
-
-###  Technologies Used
-
-* JavaFX
-* JDBC
-* Oracle Database
-
-###  Key Features
-
-* Full CRUD operations
-* Oracle DB integration
-* Desktop graphical interface
-* Library operation management
-
-###  Main Focus
-
-Desktop application development and SQL/database integration.
+Architecture backend, sécurité applicative et conception de bases de données relationnelles.
 
 ---
 
-#  Tech Stack
+## 🛒 Backend de Système de Panier E-commerce
 
-##  Languages
+### *Concevoir un backend e-commerce sécurisé*
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+> **Une bonne plateforme e-commerce ne repose pas seulement sur les produits. Elle dépend aussi de la sécurité, de la scalabilité et de la fiabilité des APIs.**
+
+Ce projet est un backend de système de panier développé avec Spring Boot.
+
+Il propose :
+
+- APIs de gestion des produits
+- Authentification des utilisateurs
+- Gestion des paniers
+- Sécurité basée sur JWT
+- Autorisation par rôles
+
+###  Technologies utilisées
+
+- Spring Boot
+- Spring Security
+- JPA / Hibernate
+- JWT Authentication
+
+###  Fonctionnalités principales
+
+- Architecture RESTful API
+- Authentification JWT
+- Structure MVC en couches
+- Gestion sécurisée des utilisateurs
+- Architecture orientée services propre
+
+###  Focus principal
+
+Conception d’APIs, sécurité et logique backend scalable.
+
+---
+
+##  Système de Gestion de Bibliothèque
+
+### *Application desktop pour la gestion d’une bibliothèque*
+
+> **Gérer efficacement des livres, membres et emprunts nécessite une structure de données solide.**
+
+Ce projet est une application desktop de gestion de bibliothèque développée avec JavaFX et JDBC.
+
+### 🔧 Technologies utilisées
+
+- JavaFX
+- JDBC
+- Oracle Database
+
+###  Fonctionnalités principales
+
+- CRUD complet
+- Intégration Oracle DB
+- Interface graphique desktop
+- Gestion des opérations de bibliothèque
+
+###  Focus principal
+
+Développement desktop et intégration base de données SQL.
+
+---
+
+#  Stack Technique
+
+##  Langages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ##  Backend & Frameworks
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge\&logo=thymeleaf\&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge\&logo=databricks\&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge\&logo=testinglibrary\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
 ---
 
-##  Databases
+##  Bases de données
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-
----
-
-##  Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
-##  Currently Learning
+##  Outils & Plateformes
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+##  En cours d’apprentissage
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REST API Design](https://img.shields.io/badge/REST%20API%20Design-4B8BBE?style=for-the-badge)
 
-* Advanced backend architecture
-* Scalable REST API design
-* Frontend integration with React
-* Containerization with Docker
-* Production-ready application deployment
+- Architecture backend avancée
+- Conception d’APIs REST scalables
+- Intégration frontend avec React
+- Containerisation avec Docker
+- Déploiement d’applications en production
 
 ---
 
-#  GitHub Stats
+# Statistiques GitHub
 
 <div align="center">
 
@@ -227,58 +226,5 @@ Desktop application development and SQL/database integration.
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Belak17&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-#  Goals & Roadmap
-
-```text
-2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+
-  │
-  ├── ✅ Backend systems with Spring Boot
-  ├── ✅ Authentication & Security systems
-  ├── ✅ Relational database management
-  ├── ✅ REST API development
-  │
-  ├── 🔄 Docker & containerization
-  ├── 🔄 React frontend integration
-  ├── 🔄 Production-ready deployment
-  ├── 🔄 Advanced system architecture
-  │
-  └── 🎯 Goal 2026 : Become a highly skilled backend engineer
-                     & contribute to large-scale real-world systems
-```
-
-What I’m focusing on right now:
-
-*  Scalable backend architecture
-*  Advanced application security
-*  Fullstack integration
-*  Writing cleaner and more maintainable code
-*  Real-world deployment workflows
-
----
-
-#  Contact Me
-
-<div align="center">
-
-I’m always open to discussing backend development, software engineering, scalable systems, or collaboration opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kaleb-akakpo/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:akakpokaleb09@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Belak17)
-
-</div>
-
----
-
-<div align="center">
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=100&section=footer" width="100%"/>
 
 </div>
