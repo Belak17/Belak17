@@ -88,7 +88,7 @@ Architecture backend, sécurité applicative et conception de bases de données 
 
 ---
 
-## 🛒 Backend de Système de Panier E-commerce
+## Backend de Système de Panier E-commerce
 
 ### *Concevoir un backend e-commerce sécurisé*
 
