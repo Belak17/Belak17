@@ -6,7 +6,7 @@
 
 <!-- BADGES ANIMÉS -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&width=700\&lines=Backend+Developer+☕;Java+%7C+Spring+Boot+%7C+PostgreSQL+⚡;Designing+Scalable+Backend+Systems+🏗️;Building+Real-World+Applications+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&width=700\&lines=Backend+Developer+;Java+%7C+Spring+Boot+%7C+PostgreSQL+;Designing+Scalable+Backend+Systems+;Building+Real-World+Applications+)](https://git.io/typing-svg)
 
 <br>
 
@@ -19,9 +19,8 @@
 
 ---
 
-# ⚡ About Me
+#  About Me
 
-> *"A system should not only work. It should remain understandable, scalable, and maintainable long after it is written."*
 
 I’m **Kaleb AKAKPO**, a backend-focused developer passionate about building structured and reliable applications using **Java and Spring Boot**.
 
@@ -41,27 +40,16 @@ My main focus is:
 
 I also enjoy understanding *why* systems are designed a certain way instead of only making them work.
 
-```java
-Kaleb developer = new Kaleb(
-    "Backend Development",
-    "Java & Spring Boot",
-    "REST APIs & Security",
-    "Database Design",
-    "System Architecture"
-);
-
-developer.setMindset("Build. Refactor. Optimize. Repeat.");
-```
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 > A selection of backend-focused projects applying API design, authentication systems, database management, and scalable architectures.
 
 ---
 
-## 📚 Timetable Management System
+##  Timetable Management System
 
 ### *Managing academic scheduling efficiently*
 
@@ -77,7 +65,7 @@ The application handles:
 * Authentication and authorization
 * Responsive academic dashboard
 
-### 🔧 Technologies Used
+###  Technologies Used
 
 * Spring Boot
 * Spring Security
@@ -86,7 +74,7 @@ The application handles:
 * Thymeleaf
 * HTML / CSS / JavaScript
 
-### ⭐ Key Features
+###  Key Features
 
 * Secure authentication system using Spring Security
 * BCrypt password encryption
@@ -95,13 +83,13 @@ The application handles:
 * Structured layered architecture
 * Database relationship modeling
 
-### 🎯 Main Focus
+###  Main Focus
 
 Backend architecture, security implementation, and relational database design.
 
 ---
 
-## 🛒 Shopping Cart Backend System
+##  Shopping Cart Backend System
 
 ### *Designing a secure e-commerce backend*
 
@@ -124,7 +112,7 @@ It provides:
 * JPA / Hibernate
 * JWT Authentication
 
-### ⭐ Key Features
+###  Key Features
 
 * RESTful API architecture
 * JWT authentication system
@@ -132,13 +120,13 @@ It provides:
 * Secure user management
 * Clean service-oriented architecture
 
-### 🎯 Main Focus
+###  Main Focus
 
 API design, authentication systems, and scalable backend logic.
 
 ---
 
-## 📖 Library Management System
+##  Library Management System
 
 ### *Desktop application for library operations*
 
@@ -146,28 +134,28 @@ API design, authentication systems, and scalable backend logic.
 
 This project is a desktop-based library management application developed using JavaFX and JDBC.
 
-### 🔧 Technologies Used
+###  Technologies Used
 
 * JavaFX
 * JDBC
 * Oracle Database
 
-### ⭐ Key Features
+###  Key Features
 
 * Full CRUD operations
 * Oracle DB integration
 * Desktop graphical interface
 * Library operation management
 
-### 🎯 Main Focus
+###  Main Focus
 
 Desktop application development and SQL/database integration.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-## ☕ Languages
+##  Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
@@ -177,7 +165,7 @@ Desktop application development and SQL/database integration.
 
 ---
 
-## ⚙️ Backend & Frameworks
+##  Backend & Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
@@ -189,14 +177,14 @@ Desktop application development and SQL/database integration.
 
 ---
 
-## 🗄️ Databases
+##  Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
 ---
 
-## 🔧 Tools & Platforms
+##  Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -206,7 +194,7 @@ Desktop application development and SQL/database integration.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
@@ -220,7 +208,7 @@ Desktop application development and SQL/database integration.
 
 ---
 
-# 📈 GitHub Stats
+#  GitHub Stats
 
 <div align="center">
 
@@ -244,7 +232,7 @@ Desktop application development and SQL/database integration.
 
 ---
 
-# 🗺️ Goals & Roadmap
+#  Goals & Roadmap
 
 ```text
 2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+
@@ -265,15 +253,15 @@ Desktop application development and SQL/database integration.
 
 What I’m focusing on right now:
 
-* ⚙️ Scalable backend architecture
-* 🔐 Advanced application security
-* 🌐 Fullstack integration
-* 🧠 Writing cleaner and more maintainable code
-* 🚀 Real-world deployment workflows
+*  Scalable backend architecture
+*  Advanced application security
+*  Fullstack integration
+*  Writing cleaner and more maintainable code
+*  Real-world deployment workflows
 
 ---
 
-# 🤝 Contact Me
+#  Contact Me
 
 <div align="center">
 
@@ -289,7 +277,7 @@ I’m always open to discussing backend development, software engineering, scala
 
 <div align="center">
 
-*"Clean architecture is not only about code quality. It is about building systems that people can understand, improve, and trust."*
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=100&section=footer" width="100%"/>
 
