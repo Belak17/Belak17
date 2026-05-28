@@ -66,12 +66,14 @@ L’application permet :
 
 ###  Technologies utilisées
 
-- Spring Boot
-- Spring Security
-- Spring Data JPA / Hibernate
-- PostgreSQL
-- Thymeleaf
-- HTML / CSS / JavaScript
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Spring Security](https://img.shields.io/badge/Spring%20Security-Authentication-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
+[![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://spring.io/projects/spring-data-jpa)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-Template%20Engine-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)](https://www.thymeleaf.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ###  Fonctionnalités principales
 
@@ -106,10 +108,10 @@ Il propose :
 
 ###  Technologies utilisées
 
-- Spring Boot
-- Spring Security
-- JPA / Hibernate
-- JWT Authentication
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Spring Security](https://img.shields.io/badge/Spring%20Security-Authentication-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
+[![Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
+[![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 
 ###  Fonctionnalités principales
 
@@ -135,9 +137,9 @@ Ce projet est une application desktop de gestion de bibliothèque développée a
 
 ###  Technologies utilisées
 
-- JavaFX
-- JDBC
-- Oracle Database
+[![JavaFX](https://img.shields.io/badge/JavaFX-Desktop%20UI-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjfx.io/)
+[![JDBC](https://img.shields.io/badge/JDBC-Database%20Connectivity-59666C?style=for-the-badge)](https://docs.oracle.com/javase/tutorial/jdbc/)
+[![Oracle Database](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 
 ###  Fonctionnalités principales
 
