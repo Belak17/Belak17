@@ -195,8 +195,6 @@ Développement desktop et intégration base de données SQL.
 
 ##  En cours d’apprentissage
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REST API Design](https://img.shields.io/badge/REST%20API%20Design-4B8BBE?style=for-the-badge)
 
 - Architecture backend avancée
