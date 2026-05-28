@@ -133,7 +133,7 @@ Conception d’APIs, sécurité et logique backend scalable.
 
 Ce projet est une application desktop de gestion de bibliothèque développée avec JavaFX et JDBC.
 
-### 🔧 Technologies utilisées
+###  Technologies utilisées
 
 - JavaFX
 - JDBC
