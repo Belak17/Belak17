@@ -199,8 +199,6 @@ Développement desktop et intégration base de données SQL.
 
 - Architecture backend avancée
 - Conception d’APIs REST scalables
-- Intégration frontend avec React
-- Containerisation avec Docker
 - Déploiement d’applications en production
 
 ---
