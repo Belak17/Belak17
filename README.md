@@ -88,7 +88,7 @@ Architecture backend, sécurité applicative et conception de bases de données 
 
 ---
 
-## Backend de Système de Panier E-commerce
+## [Shopping Cart](https://github.com/Belak17/shoppingCart) — *Backend de Système de Panier E-commerce*
 
 ### *Concevoir un backend e-commerce sécurisé*
 
@@ -125,7 +125,7 @@ Conception d’APIs, sécurité et logique backend scalable.
 
 ---
 
-##  Système de Gestion de Bibliothèque
+##  [Library Management](https://github.com/Belak17/libraryManagement) —  *Système de Gestion de Bibliothèque*
 
 ### *Application desktop pour la gestion d’une bibliothèque*
 
