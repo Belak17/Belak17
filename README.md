@@ -1,70 +1,70 @@
 <div align="center">
 
-<!-- BANNIÈRE -->
+<!-- BANNER -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=200&section=header&text=Kaleb%20AKAKPO&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<!-- BADGES ANIMÉS -->
+<!-- ANIMATED BADGES -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Développeur+Backend+;Java+%7C+Spring+Boot+%7C+PostgreSQL+;Conception+de+systèmes+backend+scalables+;Création+d’applications+réelles+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Backend+Developer+;Java+%7C+Spring+Boot+%7C+PostgreSQL+;Design+of+scalable+backend+systems+;Building+real+applications+)](https://git.io/typing-svg)
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaleb%20AKAKPO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaleb-akakpo/)
 [![Email](https://img.shields.io/badge/Email-akakpokaleb09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akakpokaleb09@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Belak17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Belak17)
-![Visitors](https://komarev.com/ghpvc/?username=Belak17&style=for-the-badge&color=7C3AED&label=Visiteurs)
+![Visitors](https://komarev.com/ghpvc/?username=Belak17&style=for-the-badge&color=7C3AED&label=Visitors)
 
 </div>
 
 ---
 
-#  À propos de moi
+# About me
 
-Je suis **Kaleb AKAKPO**, développeur orienté backend passionné par la création d’applications structurées, fiables et maintenables avec **Java et Spring Boot**.
+I am **Kaleb AKAKPO**, a backend-oriented developer passionate about building structured, reliable, and maintainable applications using **Java and Spring Boot**.
 
-Ce qui me fascine le plus dans le développement backend, c’est toute l’architecture invisible derrière une application.  
-Les utilisateurs voient uniquement l’interface… mais derrière elle se trouvent l’authentification, les APIs, les bases de données, la sécurité, la logique métier et l’architecture système.
+What fascinates me most about backend development is the entire invisible architecture behind an application.  
+Users only see the interface… but behind it are authentication, APIs, databases, security, business logic, and system architecture.
 
-Et c’est précisément cette partie que j’aime construire.
+And that is exactly the part I love building.
 
-J’aime transformer des besoins complexes en systèmes backend propres, scalables, maintenables et sécurisés.
+I enjoy transforming complex requirements into clean, scalable, maintainable, and secure backend systems.
 
-Mes principaux centres d’intérêt :
+My main interests:
 
-- Conception d’APIs REST
-- Architecture backend
-- Gestion de bases de données relationnelles
-- Sécurisation d’applications avec Spring Security
-- Écriture de code maintenable et testable
+- REST API design
+- Backend architecture
+- Relational database management
+- Application security with Spring Security
+- Writing maintainable and testable code
 
-J’aime également comprendre *pourquoi* les systèmes sont conçus d’une certaine manière, et pas seulement les faire fonctionner.
-
----
-
-#  Projets phares
-
-> Une sélection de projets orientés backend mettant en pratique la conception d’APIs, l’authentification, la gestion de bases de données et les architectures scalables.
+I also enjoy understanding *why* systems are designed in a certain way, not just making them work.
 
 ---
 
-##  [Timetable Management System](https://github.com/Belak17/scheduleTimetable) — *Système de Gestion d’Emplois du Temps*
+# Featured Projects
 
-### *Organiser efficacement les emplois du temps académiques*
+> A selection of backend-oriented projects applying API design, authentication, database management, and scalable architectures.
 
-> **Comment gérer des emplois du temps complexes pour des étudiants, enseignants et administrateurs sans créer de chaos ?**
+---
 
-Ce projet est un système complet de gestion d’emplois du temps académiques conçu pour simplifier l’organisation universitaire.
+## [Timetable Management System](https://github.com/Belak17/scheduleTimetable) — *Academic Timetable Management System*
 
-L’application permet :
+### *Efficiently organizing academic schedules*
 
-- Gestion des emplois du temps étudiants et enseignants
-- Gestion des utilisateurs avec rôles
-- Importation et gestion des plannings
-- Authentification et autorisation
-- Tableau de bord académique responsive
+> **How do we manage complex schedules for students, teachers, and administrators without creating chaos?**
 
-###  Technologies utilisées
+This project is a complete academic timetable management system designed to simplify university organization.
+
+The application allows:
+
+- Student and teacher timetable management
+- Role-based user management
+- Schedule import and handling
+- Authentication and authorization
+- Responsive academic dashboard
+
+### Technologies used
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Spring Security](https://img.shields.io/badge/Spring%20Security-Authentication-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
@@ -75,88 +75,88 @@ L’application permet :
 [![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-###  Fonctionnalités principales
+### Main features
 
-- Système d’authentification sécurisé avec Spring Security
-- Chiffrement des mots de passe avec BCrypt
-- Gestion des rôles et permissions
-- Interface responsive
-- Architecture en couches propre
-- Modélisation relationnelle de la base de données
+- Secure authentication system with Spring Security
+- Password encryption using BCrypt
+- Role and permission management
+- Responsive interface
+- Clean layered architecture
+- Relational database modeling
 
-###  Focus principal
+### Main focus
 
-Architecture backend, sécurité applicative et conception de bases de données relationnelles.
+Backend architecture, application security, and relational database design.
 
 ---
 
-## [Shopping Cart](https://github.com/Belak17/shoppingCart) — *Backend de Système de Panier E-commerce*
+## [Shopping Cart](https://github.com/Belak17/shoppingCart) — *E-commerce Cart Backend System*
 
-### *Concevoir un backend e-commerce sécurisé*
+### *Designing a secure e-commerce backend*
 
-> **Une bonne plateforme e-commerce ne repose pas seulement sur les produits. Elle dépend aussi de la sécurité, de la scalabilité et de la fiabilité des APIs.**
+> **A good e-commerce platform is not only about products. It depends on security, scalability, and API reliability.**
 
-Ce projet est un backend de système de panier développé avec Spring Boot.
+This project is a Spring Boot-based shopping cart backend system.
 
-Il propose :
+It provides:
 
-- APIs de gestion des produits
-- Authentification des utilisateurs
-- Gestion des paniers
-- Sécurité basée sur JWT
-- Autorisation par rôles
+- Product management APIs
+- User authentication
+- Cart management
+- JWT-based security
+- Role-based authorization
 
-###  Technologies utilisées
+### Technologies used
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Spring Security](https://img.shields.io/badge/Spring%20Security-Authentication-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
 [![Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
 [![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 
-###  Fonctionnalités principales
+### Main features
 
-- Architecture RESTful API
-- Authentification JWT
-- Structure MVC en couches
-- Gestion sécurisée des utilisateurs
-- Architecture orientée services propre
+- RESTful API architecture
+- JWT authentication
+- Layered MVC structure
+- Secure user management
+- Clean service-oriented architecture
 
-###  Focus principal
+### Main focus
 
-Conception d’APIs, sécurité et logique backend scalable.
+API design, security, and scalable backend logic.
 
 ---
 
-##  [Library Management](https://github.com/Belak17/libraryManagement) —  *Système de Gestion de Bibliothèque*
+## [Library Management](https://github.com/Belak17/libraryManagement) — *Library Management System*
 
-### *Application desktop pour la gestion d’une bibliothèque*
+### *Desktop application for library management*
 
-> **Gérer efficacement des livres, membres et emprunts nécessite une structure de données solide.**
+> **Efficiently managing books, members, and loans requires a strong data structure.**
 
-Ce projet est une application desktop de gestion de bibliothèque développée avec JavaFX et JDBC.
+This project is a desktop library management application built with JavaFX and JDBC.
 
-###  Technologies utilisées
+### Technologies used
 
 [![JavaFX](https://img.shields.io/badge/JavaFX-Desktop%20UI-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjfx.io/)
 [![JDBC](https://img.shields.io/badge/JDBC-Database%20Connectivity-59666C?style=for-the-badge)](https://docs.oracle.com/javase/tutorial/jdbc/)
 [![Oracle Database](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 
-###  Fonctionnalités principales
+### Main features
 
-- CRUD complet
-- Intégration Oracle DB
-- Interface graphique desktop
-- Gestion des opérations de bibliothèque
+- Full CRUD operations
+- Oracle DB integration
+- Desktop graphical interface
+- Library operations management
 
-###  Focus principal
+### Main focus
 
-Développement desktop et intégration base de données SQL.
+Desktop development and SQL database integration.
 
 ---
 
-#  Stack Technique
+# Tech Stack
 
-##  Langages
+## Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -166,7 +166,7 @@ Développement desktop et intégration base de données SQL.
 
 ---
 
-##  Backend & Frameworks
+## Backend & Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -178,14 +178,14 @@ Développement desktop et intégration base de données SQL.
 
 ---
 
-##  Bases de données
+## Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
-##  Outils & Plateformes
+## Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -195,17 +195,17 @@ Développement desktop et intégration base de données SQL.
 
 ---
 
-##  En cours d’apprentissage
+## Currently learning
 
 ![REST API Design](https://img.shields.io/badge/REST%20API%20Design-4B8BBE?style=for-the-badge)
 
-- Architecture backend avancée
-- Conception d’APIs REST scalables
-- Déploiement d’applications en production
+- Advanced backend architecture
+- Scalable REST API design
+- Production deployment of applications
 
 ---
 
-# Statistiques GitHub
+# GitHub Stats
 
 <div align="center">
 
@@ -227,25 +227,25 @@ Développement desktop et intégration base de données SQL.
 
 </div>
 
-Ce sur quoi je travaille actuellement :
+What I am currently working on:
 
--  Architecture backend scalable
--  Sécurité applicative avancée
--  Intégration fullstack
--  Écriture d’un code plus propre et maintenable
--  Workflows de déploiement réels
+-  Scalable backend architecture
+-  Advanced application security
+-  Fullstack integration
+-  Writing cleaner and more maintainable code
+-  Real deployment workflows
 
 ---
 
-#  Me contacter
+# Contact me
 
 <div align="center">
 
-Je suis toujours ouvert aux échanges autour du développement backend, du software engineering, des architectures scalables ou des opportunités de collaboration.
+I am always open to discussions about backend development, software engineering, scalable architectures, or collaboration opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Discutons%20!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaleb-akakpo/)
-[![Email](https://img.shields.io/badge/Email-Contactez%20moi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akakpokaleb09@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Mes%20projets-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Belak17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Talk!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaleb-akakpo/)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akakpokaleb09@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Belak17)
 
 </div>
 
