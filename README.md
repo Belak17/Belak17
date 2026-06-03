@@ -84,6 +84,12 @@ The application allows:
 - Clean layered architecture
 - Relational database modeling
 
+### Project Status
+
+- Designed for deployment within a university or faculty environment
+- Can be hosted on a local/internal server
+- Not publicly deployed at the moment
+
 ### Main focus
 
 Backend architecture, application security, and relational database design.
