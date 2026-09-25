@@ -113,13 +113,13 @@ A JavaFX application connected to an Oracle database for managing books, members
 
 ---
 
-# 📊 Data Science & Machine Learning
+#  Data Science & Machine Learning
 
 Alongside software engineering, I work on **data science and machine learning projects** using Python to explore datasets, build predictive models, and evaluate their performance.
 
 ---
 
-### 🏆 World Cup Prediction
+### [World Cup Prediction](https://github.com/Belak17/WorldCupPrediction)
 
 **Machine Learning project for football match prediction**
 
@@ -143,7 +143,7 @@ A predictive modeling project exploring the use of historical football data to b
 
 ---
 
-### 📧 Spam Detection
+### [Spam Detection](https://github.com/Belak17/SpamDetection)
 
 **Machine Learning project for spam message classification**
 
@@ -165,7 +165,7 @@ A classification project focused on identifying whether a message is spam or leg
 
 ---
 
-### 📈 Marketing Campaign Prediction
+### [Marketing Campaign Prediction](https://github.com/Belak17/MarketingCampaign)
 
 **Machine Learning project for marketing campaign analysis**
 
