@@ -119,7 +119,7 @@ Alongside software engineering, I work on **data science and machine learning pr
 
 ---
 
-### [World Cup Prediction](https://github.com/Belak17/WorldCupPrediction)
+### [World Cup Prediction](https://github.com/Belak17/World-Cup-Prediction)
 
 **Machine Learning project for football match prediction**
 
